@@ -1,6 +1,5 @@
 # Rocketseat Next Level Week 02
 
-[![HitCount](https://hits.dwyl.com/samantaProspero/PalpiteBox-DevPleno.svg)](https://hits.dwyl.com/samantaProspero/PalpiteBox-DevPleno)
 
 ## Segunda aula: 
 - Typescript
